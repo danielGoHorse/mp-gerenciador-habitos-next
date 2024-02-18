@@ -20,7 +20,7 @@ export default function RootLayout({
     <html lang="en">
       <body className={`${dosis.className} ${inter.className} flex items-center flex-col mt-10 bg-neutral-900`}>
       <Image
-                src="/Logo.svg"
+                src="/logo.svg"
                 width={200}
                 height={200}
                 alt="Picture of the author"
